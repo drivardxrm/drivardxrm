@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/david_rivard" target="blank"><img src="https://img.shields.io/twitter/follow/david_rivard?logo=twitter&style=for-the-badge" alt="david_rivard" /></a> </p>
 
-- 📝 I regularly write articles on [itmustbecode.com](itmustbecode.com)
+- 📝 I regularly write articles on [itmustbecode.com](https://itmustbecode.com)
 - :sparkles: Controls on [PCF Gallery](https://pcf.gallery/authors#david_rivard)
 - :hammer: Packages on [Nuget](https://www.nuget.org/profiles/drivard)
 
