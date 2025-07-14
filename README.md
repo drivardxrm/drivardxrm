@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-<h3 align="center">Power Platform Architect/Developer, DevOps fanatic, PCF aficionado</h3>
+<h3 align="center">Power Platform Architect/Developer, DevOps fanatic, PCF aficionado - former Microsoft MVP</h3>
 
 
 <br/>
-
-![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/38399134/193797702-4f43b330-dbdf-407b-9470-9c6719b35143.png)
-
 
 
 
